@@ -16,6 +16,7 @@ public class BouncingBall {
             bounceHeight = bounceHeight * bounce;
         }
 
+        System.out.println(count);
         return count;
     }
 }
