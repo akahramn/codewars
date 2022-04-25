@@ -10,7 +10,8 @@ public class Main {
 
         String str = "the-stealth-warrior";
         String str1 = "The_Stealth_Warrior";
-        convertStringToCamelCase.toCamelCase(str);
+        System.out.println(convertStringToCamelCase.toCamelCase(str));
+
 
 
     }
